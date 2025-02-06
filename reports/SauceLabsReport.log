@@ -1,0 +1,102 @@
+03/02/25 09:46:52 AM Monday - <module> - INFO : Web Page Launched
+03/02/25 10:21:00 AM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 10:25:27 AM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 10:25:28 AM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 10:36:59 AM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 10:37:00 AM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 11:28:22 AM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 11:28:23 AM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 11:29:27 AM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 11:29:28 AM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 11:41:59 AM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 11:42:00 AM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 11:51:06 AM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 11:51:07 AM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 12:10:19 PM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 12:10:19 PM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 12:10:19 PM Monday - BasePage - INFO : WebElement with ('id', 'user-name') found
+03/02/25 12:10:19 PM Monday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+03/02/25 12:10:24 PM Monday - BasePage - ERROR : WebElement with ('id', "password']") not found
+03/02/25 12:10:24 PM Monday - BasePage - ERROR : Unable to send the text: secret_sauce to the locator: ('id', "password']")
+03/02/25 12:11:42 PM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 12:11:42 PM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 12:11:42 PM Monday - BasePage - INFO : WebElement with ('id', 'user-name') found
+03/02/25 12:11:42 PM Monday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+03/02/25 12:11:42 PM Monday - BasePage - INFO : WebElement with ('id', 'password') found
+03/02/25 12:11:42 PM Monday - BasePage - INFO : Sent the text: secret_sauce to the locator: ('id', 'password')
+03/02/25 12:11:42 PM Monday - BasePage - INFO : WebElement with ('id', 'login-button') found
+03/02/25 12:11:43 PM Monday - BasePage - INFO : Clicked on the element with the locator: ('id', 'login-button')
+03/02/25 06:41:12 PM Monday - Browser - INFO : Chrome Driver is initializing
+03/02/25 06:41:13 PM Monday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+03/02/25 06:41:13 PM Monday - BasePage - INFO : WebElement with ('id', 'user-name') found
+03/02/25 06:41:13 PM Monday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+03/02/25 06:41:13 PM Monday - BasePage - INFO : WebElement with ('id', 'password') found
+03/02/25 06:41:13 PM Monday - BasePage - INFO : Sent the text: secret_sauce to the locator: ('id', 'password')
+03/02/25 06:41:13 PM Monday - BasePage - INFO : WebElement with ('id', 'login-button') found
+03/02/25 06:41:13 PM Monday - BasePage - INFO : Clicked on the element with the locator: ('id', 'login-button')
+03/02/25 06:41:13 PM Monday - BasePage - INFO : WebElement found with locator: ('class name', 'shopping_cart_link')
+03/02/25 06:41:14 PM Monday - BasePage - INFO : WebElement with locator: ('class name', 'shopping_cart_link') is displayed
+04/02/25 06:50:04 PM Tuesday - BasePage - INFO : Web Page not Launched with URL : https://www.saucedemo.com/
+04/02/25 06:51:58 PM Tuesday - Browser - INFO : Chrome Driver is initializing
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : WebElement with ('id', 'user-name') found
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : WebElement with ('id', 'password') found
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : Sent the text: secret_sauce to the locator: ('id', 'password')
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : WebElement found with locator: ('id', 'login-button')
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : Clicked on the element with the locator: ('id', 'login-button')
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : WebElement found with locator: ('class name', 'shopping_cart_link')
+04/02/25 06:51:59 PM Tuesday - BasePage - INFO : WebElement with locator: ('class name', 'shopping_cart_link') is displayed
+04/02/25 07:03:15 PM Tuesday - BasePage - INFO : Web Page not Launched with URL : https://www.saucedemo.com/
+04/02/25 07:18:55 PM Tuesday - Browser - INFO : FireFox Driver is initializing
+04/02/25 07:18:57 PM Tuesday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+04/02/25 07:18:57 PM Tuesday - BasePage - INFO : WebElement with ('id', 'user-name') found
+04/02/25 07:18:57 PM Tuesday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+04/02/25 07:18:57 PM Tuesday - BasePage - INFO : WebElement with ('id', 'password') found
+04/02/25 07:18:57 PM Tuesday - BasePage - INFO : Sent the text: secret_sauce to the locator: ('id', 'password')
+04/02/25 07:18:57 PM Tuesday - BasePage - INFO : WebElement found with locator: ('id', 'login-button')
+04/02/25 07:18:58 PM Tuesday - BasePage - INFO : Clicked on the element with the locator: ('id', 'login-button')
+04/02/25 07:18:58 PM Tuesday - BasePage - INFO : WebElement found with locator: ('class name', 'shopping_cart_link')
+04/02/25 07:18:58 PM Tuesday - BasePage - INFO : WebElement with locator: ('class name', 'shopping_cart_link') is displayed
+04/02/25 07:19:40 PM Tuesday - Browser - INFO : FireFox Driver is initializing
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : WebElement with ('id', 'user-name') found
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : WebElement with ('id', 'password') found
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : Sent the text: secret_sauce to the locator: ('id', 'password')
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : WebElement found with locator: ('id', 'login-button')
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : Clicked on the element with the locator: ('id', 'login-button')
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : WebElement found with locator: ('class name', 'shopping_cart_link')
+04/02/25 07:19:42 PM Tuesday - BasePage - INFO : WebElement with locator: ('class name', 'shopping_cart_link') is displayed
+04/02/25 07:20:18 PM Tuesday - BasePage - INFO : Web Page not Launched with URL : https://www.saucedemo.com/
+04/02/25 07:20:37 PM Tuesday - Browser - INFO : FireFox Driver is initializing
+04/02/25 07:20:38 PM Tuesday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+04/02/25 07:20:39 PM Tuesday - BasePage - INFO : WebElement with ('id', 'user-name') found
+04/02/25 07:20:39 PM Tuesday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+04/02/25 07:20:39 PM Tuesday - BasePage - INFO : WebElement with ('id', 'password') found
+04/02/25 07:20:39 PM Tuesday - BasePage - INFO : Sent the text: secret_sauce to the locator: ('id', 'password')
+04/02/25 07:20:39 PM Tuesday - BasePage - INFO : WebElement found with locator: ('id', 'login-button')
+04/02/25 07:20:39 PM Tuesday - BasePage - INFO : Clicked on the element with the locator: ('id', 'login-button')
+04/02/25 07:20:39 PM Tuesday - BasePage - INFO : WebElement found with locator: ('class name', 'shopping_cart_link')
+04/02/25 07:20:39 PM Tuesday - BasePage - INFO : WebElement with locator: ('class name', 'shopping_cart_link') is displayed
+04/02/25 07:21:25 PM Tuesday - Browser - INFO : Chrome Driver is initializing
+04/02/25 07:21:25 PM Tuesday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+04/02/25 07:21:25 PM Tuesday - BasePage - INFO : WebElement with ('id', 'user-name') found
+04/02/25 07:21:26 PM Tuesday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+04/02/25 07:21:26 PM Tuesday - BasePage - INFO : WebElement with ('id', 'password') found
+04/02/25 07:21:26 PM Tuesday - BasePage - INFO : Sent the text: secret_sauce to the locator: ('id', 'password')
+04/02/25 07:21:26 PM Tuesday - BasePage - INFO : WebElement found with locator: ('id', 'login-button')
+04/02/25 07:21:26 PM Tuesday - BasePage - INFO : Clicked on the element with the locator: ('id', 'login-button')
+04/02/25 07:21:26 PM Tuesday - BasePage - INFO : WebElement found with locator: ('class name', 'shopping_cart_link')
+04/02/25 07:21:26 PM Tuesday - BasePage - INFO : WebElement with locator: ('class name', 'shopping_cart_link') is displayed
+04/02/25 07:32:14 PM Tuesday - Browser - INFO : Chrome Driver is initializing
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : Web Page Launched with URL : https://www.saucedemo.com/
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : WebElement with ('id', 'user-name') found
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : Sent the text: standard_user to the locator: ('id', 'user-name')
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : WebElement with ('id', 'password') found
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : Sent the text: secret_sauce to the locator: ('id', 'password')
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : WebElement found with locator: ('id', 'login-button')
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : Clicked on the element with the locator: ('id', 'login-button')
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : WebElement found with locator: ('class name', 'shopping_cart_link')
+04/02/25 07:32:15 PM Tuesday - BasePage - INFO : WebElement with locator: ('class name', 'shopping_cart_link') is displayed
+06/02/25 08:51:09 AM Thursday - BasePage - INFO : Web Page not Launched with URL : https://www.saucedemo.com/
